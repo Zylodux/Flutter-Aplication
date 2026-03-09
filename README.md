@@ -24,3 +24,13 @@ Uygulamayı bağlı olan bir cihazda veya emülatörde başlatmak için aşağı
 
 ```ash
 flutter run
+ ```
+Ekran Görüntüleri  :
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f255c96f-0382-443e-abba-4a91aaeab6f4" width="23%" />
+  <img src="https://github.com/user-attachments/assets/8c4e52fc-d1a5-44f5-a53f-422ad316ad8c" width="23%" />
+  <img src="https://github.com/user-attachments/assets/8ddab930-53fe-45e5-8090-59fbae0d57c2" width="23%" />
+  <img src="https://github.com/user-attachments/assets/301b0888-fc5a-43f0-b8ed-901ebcdfa205" width="23%" />
+</p>
+
