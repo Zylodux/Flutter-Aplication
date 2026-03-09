@@ -1,17 +1,26 @@
-# mini_katalog
+# Mini Katalog
+## Proje Açıklaması
+Bu proje, Flutter kullanılarak geliştirilmiş bir "Mini Katalog" uygulamasıdır. İçerisinde ürünlerin/öğelerin listelendiği ve çeşitli kataloglama özelliklerinin yer aldığı bir yapı barındırmaktadır.
+## Kullanılan Sürüm
+- **Flutter Sürümü:** ^3.11.1 (veya üzeri)
+## Çalıştırma Adımları
+Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+1. Projeyi bilgisayarınıza klonlayın:
+   ```bash
+   git clone https://github.com/KULLANICI_ADINIZ/Flutter-Aplication-main.git
+(Eğer projeyi ZIP olarak indirdiyseniz, dosyaları klasöre çıkartın)
 
-A new Flutter project.
+Terminal (veya komut satırı) üzerinden proje dizinine gidin:
 
-## Getting Started
+   ```bash
+cd Flutter-Aplication-main
+ ```
+Gerekli kütüphane ve bağımlılıkları indirmek için şu komutu çalıştırın:
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub get
+ ```
+Uygulamayı bağlı olan bir cihazda veya emülatörde başlatmak için aşağıdaki komutu kullanın:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```ash
+flutter run
